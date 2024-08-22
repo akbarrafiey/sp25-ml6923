@@ -1,0 +1,62 @@
+\begin{prob}
+    In each of the problems below compute the average case time complexity (or
+    expected time) of the given code. State your answer using asymptotic
+    notation. Show your work for this problem by stating what the different
+    cases are, the probability of each case, and how long each case takes. Also
+    show the calculation of the expected time.
+
+    You may assume that \python{math.sqrt} and \python{math.log2} take $\Theta(1)$ time.
+
+    \begin{subprobset}
+        \begin{subprob}
+            \begin{minted}[autogobble]{python}
+                import random
+                import math
+                def boo(n):
+                    # draw a number uniformly at random from 0, 1, 2, ..., n-1 in Theta(1) 
+                    x = random.randrange(n)
+                    if x < math.log2(n):
+                        for i in range(n**2):
+                            print("Very unlucky!") 
+                    elif x < math.sqrt(n):
+                        for i in range(n):
+                            print("Unlucky!") 
+                    else:
+                        print("Lucky!")
+            \end{minted}
+        \end{subprob}
+    
+    
+        \begin{soln}
+                % write solution below
+            
+        \end{soln}
+
+        \begin{subprob}
+            \begin{minted}[autogobble]{python}
+                def bogosearch(numbers, target):
+                    """search by randomly guessing. `numbers` is an array of n numbers"""
+                    n = len(numbers)
+
+                    while True:
+                        # randomly choose a number between 0 and n-1 in constant time
+                        guess = np.random.randint(n)
+                        if numbers[guess] == target:
+                            return guess
+            \end{minted}
+
+            In this part, you may assume that the numbers are distinct and that the
+            target is in the array.
+
+            Hint: if $0 < b < 1$, then $\sum_{p = 1}^\infty p \cdot b^{p-1} = \frac{1}{(1 - b)^2}$.
+
+            \begin{soln}
+                % write solution below
+            
+            \end{soln}
+
+
+        \end{subprob}
+    \end{subprobset}
+\end{prob}
+

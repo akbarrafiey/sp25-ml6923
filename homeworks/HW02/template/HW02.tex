@@ -1,0 +1,54 @@
+\documentclass{templates/dsctemplate-hw-02}
+
+
+\usepackage[margin=1in]{geometry}
+\usepackage{minted}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{pgfplots}
+\usepackage{tikz}
+\usepackage{booktabs}
+
+\usetikzlibrary{positioning}
+\usetikzlibrary{calc}
+\usetikzlibrary{angles,quotes}
+
+\newcommand{\python}[1]{\text{\mintinline{python}{#1}}}
+\usepackage{hyperref}
+\usepackage{hyperref}
+\newcommand{\duedate}{Wednesday, April 17}
+\newcommand{\duehour}{11:59 PM}
+\newcommand{\pubnumber}{02}
+
+
+\begin{document}
+
+\pstitle{%
+    DSC 40B%
+}{%
+    Homework \pubnumber%
+}[Due: \duedate]
+
+% instructions
+Write your solutions to the following problems by either typing them up or
+handwriting them on another piece of paper. Unless otherwise noted by the
+problem's instructions, show your work or provide some justification for
+your answer. Homeworks are due via Gradescope at 11:59 p.m.
+
+\vspace{1em}
+
+
+\begin{probset}
+
+\inputproblem{01-find_the_constants}
+\inputproblem{02-adding_notations}
+\inputproblem{03-average_case}
+\inputproblem{04-theoretical_lower_bound}
+
+
+\end{probset}
+
+
+\end{document}
+
