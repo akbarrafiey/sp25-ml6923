@@ -6,7 +6,7 @@ nav_order: 1
 permalink: /:path/
 seo:
   type: Course
-  name: DSC 40B
+  name: CS-GY 6923
 ---
 # {{ site.tagline }}
 {: .mb-2 }
@@ -17,13 +17,10 @@ seo:
 ## Instructor
 
  **Dr. Akbar Rafiey**<br>
-    `arafiey@ucsd.edu`<br>
+    `ar9530@nyu.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     **Lecture:**
-        Tuesday and Thursday at 6:30p-7:50p in PCYNH 109
-        <br>
-    **Discussion:**
-        Wednesday at 3:00p-3:50p	in PCYNH	109. (There will be no discussion April 03).
+        Fridays at 2:30p-4:30p in TBD
 
 
 ## How to get started:
@@ -33,6 +30,7 @@ seo:
 
 
 {{  site.modules[0]  }}
+<!--
 {{  site.modules[1]  }}
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
@@ -43,3 +41,4 @@ seo:
 {{  site.modules[8]  }}
 {{  site.modules[9]  }}
 {{  site.modules[10]  }}
+-->

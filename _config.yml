@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DSC 40B
-tagline: Theoretical Foundations of Data Science II
-description: DSC 40B, Spring 2024 at UC San Diego
+title: CS-GY 6923
+tagline: Machine Learning
+description: CS-GY 6923, Fall 2024 at NYU
 author: Akbar Rafiey
-baseurl: '/DSC40B-SP24' # the subpath of your site, e.g. /blog
+baseurl: '/ML6923' # the subpath of your site, e.g. /blog
 url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 

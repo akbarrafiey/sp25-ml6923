@@ -1,10 +1,9 @@
 # 📜 Syllabus
 
-Welcome to DSC 40B in Spring 2024!
+Welcome to CS-GY 6923 in Fall 2024!
 This page should answer most of the questions you might have about how the
-course is run; check out the [frequently asked questions](#faq) for answers to
-some common ones. If you don't find what you're looking for here, feel free to
-make a post on [Campuswire](https://campuswire.com/p/GAA99D8BF).
+course is run. If you don't find what you're looking for here, feel free to
+make a post on [Campuswire](#).
 
 
 ## Instructor
@@ -13,22 +12,22 @@ make a post on [Campuswire](https://campuswire.com/p/GAA99D8BF).
     `arafiey@ucsd.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     *Lecture:*
-        6:30p-7:50p T/Th in PCYNH	109
+        2:30p-4:50p Fridays in TBD
         <br>
-    *Discussion:*
-        3:00p-3:50p	W in PCYNH	109
+    *Office Hours:*
+        TBD
 
 ## Getting Started
 
-To get started in DSC 40B, you'll need to set up accounts on a
+To get started in CS-GY 6923, you'll need to set up accounts on a
 couple of websites.
 
 
 ### Campuswire
 
-We'll be using [Campuswire](https://campuswire.com/p/GAA99D8BF) as our course message
+We'll be using [Campuswire](#) as our course message
 board. You should have received an invitation via email, but if not you should
-be able to join by clicking the link above and using the access code `0853`. Be sure sure to join Campuswire as soon as possible,
+be able to join by clicking the link above and using the access code `????`. Be sure sure to join Campuswire as soon as possible,
 since all course communication will be done through it.
 
 If you have a question about anything to do with the course  &mdash; if you're
@@ -46,29 +45,49 @@ student if you feel that you know the answer.
 ### Gradescope
 
 We'll be using 
-[Gradescope](https://www.gradescope.com/courses/760595) for
+[Gradescope](#) for
 homework submission and grading. Most of the assignments will be a mixture of math and
-coding, and the coding parts are usually autograded via Gradescope.,
+coding.
 You should have received an email invitation for Gradescope, but if not you can join with code
-`XXZVRD`.
+`????`.
 
+## Course Prerequisites
 
-### Canvas
+Modern machine learning uses a lot of math! More than most other subjects in 
+computer science that you will study. Fortunately, the breadth of math used is 
+relatively narrow: besides basic calculus, you can get very far with an understanding 
+of just probability and linear algebra. That understanding needs to be solid for you 
+to succeed in this course. I list specific topics you should know from 
+probability and linear algebra:
 
-We will not be using Canvas. All course materials will be available at
-[course webpage](https://akbarrafiey.github.io/DSC40B-SP24/) or [Gradescope](https://www.gradescope.com/courses/760595).
+### 1. Probability
+- Random variables, discrete and continuous probability distributions, expectation, 
+variance, covariance, correlation, conditional and joint probability, Gaussian 
+random variables, law-of-large-numbers.
+
+### 2. Linear Algebra
+- Matrices and vectors, vector inner and outer products, matrix-vector and 
+matrix-matrix multiplication, vector norms (e.g., Euclidean), matrix norms 
+(e.g., Frobenius, operator), triangle inequality, Cauchy-Schwarz, solving 
+systems of linear equations, linear independence, matrix rank, column/row span, 
+null space, orthogonal matrices, basics of eigenvectors, eigenvalues, and 
+eigendecomposition.
+
+You also need to be a good programmer for this course. All coding exercises and 
+assignments will be in Python. No prior experience specifically with Python is 
+required, but I will not be focused on teaching the language, besides showing you 
+specific tools useful for machine learning. So if you are not familiar with the basics, 
+you will need to spend time familiarizing yourself. See the TAs if you run into any issues!
 
 
 ### Required Materials
 
 You will not need to purchase any materials for this course; we'll use lecture slides the main
-resource, as well as Justin Eldridge's [course notes](https://dsc-courses.github.io/dsc40b-2022-fa/materials/default/notes/book.pdf).
+resourc.
 If you'd like additional textbooks to study from, we can recommend these:
 
-- Dasgupta, Papadimitriou, Vazirani; *Algorithms*
-- Cormen, Leiserson, Rivest, Stein; *Introduction to Algorithms*
-
-These books are also *excellent* resources for interview preparation.
+- *An Introduction to Statistical Learning*, by James, Witten, Hastie, and Tibshirani. This book is available free for download from the NYU library.
+- *Elements of Statistical Learning*, by Hastie, Tibshirani, and Friedman for some more advanced topics. A free version of the book is available [here](https://hastie.su.domains/ElemStatLearn/).
 
 
 ## Lectures
@@ -78,155 +97,39 @@ they will be podcasted and posted online for remote viewing. Attendance is
 appreciated, but not required.
 
 
-You will be able to find the lecture recordings at [podcast.ucsd.edu](https://podcast.ucsd.edu/).
+You will be able to find the lecture recordings at [????](#).
 
 
 ## Office Hours
 
-Course staff, including tutors, TAs, and instructors, will hold office hours
+Course staff, TAs, and instructors, will hold office hours
 regularly throughout the week. Please see the [office
-hours](https://akbarrafiey.github.io/DSC40B-SP24/office_hours/) page for the schedule and for instructions.
+hours](#) page for the schedule and for instructions.
 
 
-## Discussions
 
+## Labs and Homeworks
 
-The discussions review the materials from that week's lectures and
-prepare you for the homework. Just as with lecture, topics and techniques introduced
-in discussion might appear on the homework and in exams. In particular, some of the more
-difficult homework problems may be partially solved in discussion section to give you a
-good start.
+These as- signments are completed at home and reinforce the material discussed in class. 
+I expect a lot of your learning to occur while working on these exercises, and investing 
+time on them is the best way to prepare for the exams. Assignments and their due dates
+ will be posted on the course webpage.
 
-Discussions will also serve as midterm reviews in the weeks leading up to the exams.
+There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
+Homework (both written problems and coding labs) must be turned in to Gradescope by the 
+specified deadline. Use the code ????? to join the class on [Gradescope](#). 
+We do not accept late work without prior permission.
 
-Attendance is recommended, but not required. The discussions will be podcasted,
-but the nature of discussion section (they usually involve a large amount of
-groupwork) means that the podcasted discussion might not be as useful as
-in-person attendance.
+*Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 
+the output before turning in. 
 
+<br>
 
-## Labs
+*Written problem sets*: Turned in via Gradescope. While not required, I encourage students to 
+prepare written problem sets in LaTeX or Markdown (with math support.) You can use this [template](#) for LaTeX.
+Students will receive 10% extra credit on the Problem Set 1 for preparing it in LaTeX or Markdown. 
+If you do write problems by hand, scan and upload as a PDF.
 
-There will be two types of assignments in DSC 40B: *labs* and *homeworks*.
-Labs help develop *essential* knowledge, while homeworks test your ability to
-apply that knowledge to solve more difficult problems. You can think of labs as
-a quick check on your understanding before you head into the homework.
-
-Labs consist of a small number of autograded multiple choice or numerical answer
-questions. They will be posted on Gradescope weekly. The exams will mostly
-consist of questions of a similar format and difficulty as those on the labs.
-However, the exams will have a time limit, while the labs have no time limit.
-
-In previous iterations of DSC 40B, these "essential" questions were actually a
-part of the homeworks. We have decided to move these essential problems to their
-own lab assignment, therefore making the homeworks shorter. This has a big
-benefit: because the labs are autograded and due before the homeworks, you'll
-get your lab grade *before* heading into the homework. This gives you an
-opportunity to patch up any misunderstandings.
-
-
-### Lab Redemptions
-
-You should think of the labs as a first practice towards the goal of mastering
-the topics in DSC 40B. But the first time you practice anything, you're not going
-to be perfect. The key is to [*learn from the
-mistakes*](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-010416-044022).
-
-To encourage this, DSC 40B uses the concept of "redemption" on lab
-assignments. Under this policy, you may regain 85% of the credit for a lab
-problem that was previously answered incorrectly by submitting an explanation of
-your mistake along with a correction. This policy encourages you to revisit
-lab mistakes in order to correct your understanding, and allows us to give
-quick, targeted feedback through grading.
-
-For a problem to be eligible for redemption, you must have submitted an answer
-to the problem.
-
-If you got the problem correct, you'll receive the total number of points for
-it. If you didn't get the problem correct, even due to a relatively small
-mistake, you'll receive no credit *until* you submit a redemption request (see
-below). If your redemption request is accepted, you'll be given 85% of the
-credit for the problem. You can think of the 15% deduction as the cost of
-requiring a tutor to look over your redemption request &mdash; or, if you're a
-glass-half-full kind of person, as an incentive to get the problem correct the
-first time around.
-
-### Redemption Requests
-
-There are two ways to submit a redemption request for a lab problem:
-
-- Option 1. Come to any tutor, TA, or instructor office hours and discuss the problem
-   (**preferred**)
-- Option 2. Submit a [regrade
-request](https://www.gradescope.com/help#help-center-item-student-regrades) on
-[Gradescope](${ vars.gradescope.url }).
-
-Whichever method you choose, you should answer the following questions:
-
-1. What was the main misconception or misunderstanding that led to your answer
-   being wrong?
-2. How did this misconception cause the wrong answer?
-3. How does fixing the misunderstanding lead you to the right answer?
-
-The next section contains an example of a good redemption request.
-
-The amount of detail needed in your request depends on how complex your mistake
-was; if it was a simple one, only one or two sentences may be necessary. A
-grader will review your request shortly (as long as you submit it within a week
-of the homework scores being posted, your regrade request will be reviewed). If
-you aren't able to identify what you did incorrectly, you'll be asked to attend
-a grader's office hours in order to discuss the problem in more detail.
-
-Note that we will not be able to handle redemption requests which are *submitted*
-more than a week after you have received your grade. However, as long as your request
-is submitted within a week, we will process it.
-
-
-#### Example
-
-Here's a simple example to demonstrate the redemption process. Suppose you're
-given the following simple problem:
-
-**Question**: What is `3 + 5 * 2`?
-
-Let's say you misapplied the order of operations, giving you an incorrect answer
-of 16 (the correct answer is, of course, 13).
-Here's a good redemption request that uses the template above:
-
-<blockquote>
-<i>
-1) I misapplied the order of operations. 2) I added before multiplying, so I
-got (3 + 5) * 2 = 8 * 2 = 16. 3) Multiplication should be done first so that
-we get 3 + (5 * 2) = 3 + 10 = 13.
-</i>
-</blockquote>
-
-Again, the key isn't just giving the right answer &mdash; that's published in the
-solutions, after all. The important part (according to the 
-[research](https://www.annualreviews.org/doi/abs/10.1146/annurev-psych-010416-044022))
-is identifying why you made the mistake.
-
-
-## Homeworks
-
-There will be eight homeworks assigned throughout the quarter, plus one ["super homework"](#the-super-homework)
-(described below).
-Homeworks will be a mixture of written problems (which are manually graded by our tutor
-staff) and coding problems (which are autograded).
-Each homework will be due via
-Gradescope at 11:59 PM on the Wednesday
-after it
-is assigned except otherwise noted, and you'll have roughly a week to complete
-each assignment from the time it is posted.
-
-The homework due date is carefully chosen to fit within a one week "cycle".
-A "week" in DSC 40B
-will start with Tuesday's lecture, followed by Thursday's. That
-week's discussion on Wednesday will review the
-lecture topics with an eye towards practical application. The lab is then due
-on Sunday, giving you some practice
-before the homework. The homework is then due on the next Wednesday, giving you some
-time after the discussion and lab to complete it.
 
 
 ### Regrade Requests
@@ -236,34 +139,16 @@ via Gradescope within *one week* of the grades being released. Note that part
 of your grade is clarity, so if your answer was mostly right but unclear you may
 still not receive full credit.
 
-Note that **regrade** requests are not the same thing as **redemption** requests (though both are
-submitted on Gradescope in the same way). Unfortunately, we cannot offer
-redemption requests for homework problems as we do with lab problems — homework
-problems are typically more complex and require more time to grade, and
-regrading them would take more resources than we have available.
-
-### The "Super Homework"
-
-Instead of a comprehensive final exam, we'll have a comprehensive "Super
-Homework". The super homework will focus on the content from the last two weeks
-of the quarter, but it will also contain material from throughout DSC 40B. It
-will be about twice as long as a typical homework.
-
-Because the super homework covers twice as much material as a usual homework, it
-will be worth roughly twice as much. However, you may still collaborate on the super
-homework as long as you write up solutions in your own words.
-
-The super homework will be due during finals week (the exact date is yet to be determined).
 
 ## Collaboration and AI
 
-You are highly encouraged to *think* about the lab and homework problems
+- You are highly encouraged to *think* about the lab and homework problems
 together, but you must turn in your own solutions written in your own words.
 We feel that discussing homework problems is an excellent way to learn, but
 writing the solutions in your own words promotes a deeper, more solid
 understanding than discussion alone.
 
-We recommend the following way of working on the labs and homeworks. First,
+- We recommend the following way of working on the labs and homeworks. First,
 meet with your partner to discuss the solutions, but don't leave the meeting
 with anything written down. Wait an hour or so, then write up the solutions in
 your own words working from memory. In that hour, you inevitably forgot some
@@ -271,24 +156,29 @@ of the details of the solution. If you find that you have trouble filling them
 in, its a sign that you might not have understood the solution as well as you
 first thought!
 
-You're also encouraged to use AI (ChatGPT, etc.) in a similar way: you can
+ - You're also encouraged to use AI (ChatGPT, etc.) in a similar way: you can
 talk to ChatGPT about a problem, but don't copy its answer verbatim. Instead,
 wait about an hour and put the answer in your own words. Keep in mind that
 ChatGPT is infamous for being very confidently wrong, so be critical of its
 output. Also keep in mind that you won't have ChatGPT on the exams, so you'll
 need to understand the fundamental concepts for yourself in order to do well.
 
-If you have any questions or worries about whether your collaboration
+ - We have a zero tolerance policy for copied code or solutions: any students 
+ with duplicate or very similar material will receive a zero on the offending assignment. 
+ This means both the student who copied material and the student they copied from will 
+ receive a zero. My advice is to never share code or solutions with other students.
+
+- If you have any questions or worries about whether your collaboration
 constitutes a violation of academic integrity, feel free to ask us on
 Campuswire.
 
 ## Slip Days
 
-You have ***five*** **slip days** to use throughout the quarter on any lab or homework
+You have ***three*** **slip days** to use throughout the quarter on any lab or homework
 (including the super homework). A slip day extends the deadline by 24 hours.
 Slip days cannot be "stacked" or "combined" to extend the deadline further
 &mdash; the latest any assignment can be submitted is 24 hours after the
-deadline. Slip days are applied automatically at the end of the quarter, but
+deadline. Slip days are applied automatically at the end of the semester, but
 it's your responsibility to keep track of how many you have left.
 
 Slip days are designed to be a transparent and predictable source of leniency in
@@ -308,77 +198,74 @@ the class. If something like that should arise, please let us know ASAP!
 
 ### Midterms
 
-There will be two midterm exams:
+There will be one midterm exam and one final exam:
 
 
-- **Midterm 01**: Thursday, May 02 (focuses on Lectures 01 &mdash; 08)
-- **Midterm 02**: Thursday, May 30 (focuses on Lectures 09 &mdash; 15)
+- **Midterm**: Friday, May 02 TBD
+- **Final Exam**: TBD
 
-The exams will be held in-person during the regularly-scheduled lecture times.
-
-
-### Final Exam
-
-The final exam for DSC 40B is a "no fault" final split into two sections:
-
-1. An optional Midterm 01 "Redemption" section focusing on Lectures 01 &mdash; 08
-2. An optional Midterm 02 "Redemption" section focusing on Lectures 09 &mdash; 15
-
-If your score on the midterm redemption section is higher than your score on the
-original midterm, it will replace that grade. Getting a lower score on a
-redemption section cannot hurt you (but it will make us sad). As a consequence,
-the redemption sections are effectively optional.
-
-Under this policy, a bad performance on an earlier exam can be erased by good
-performance on the same material in a later exam.
+The midterm exam will be held in-person during the regularly-scheduled lecture times. 
+Make sure you are available on those day. If there is any issue, let me know ASAP. 
+The final will be during the finals weeks.
 
 
-**Example**: You got an "F" on Midterm 1 and a "B" on Midterm 2. You decide to take only the
-first redemption section on the final (though you could have taken both), and you
-receive an "A". Your midterm scores are now "A" and "B".
-
-The redemption exams will be held on the date scheduled by the registrar: **Tuesday, June 11**.
-
-Note that the topics from Lectures 16, 17, and 18 are not on any exam. These will
-instead be tested in the [Super Homework](#the-super-homework).
 
 
 ### Exam Pass Criterion
 
-In order to pass the class, the mean of your two midterm scores (after
-redemption is taken into account) must be 60% or greater.
+In order to pass the class, the mean of your two exams scores must be 60% or greater.
 
 The reason for this policy is that the exams are the only assessment in this
 class which you are sure to complete by yourself, and so they are (in theory)
 the purest measure of your individual understanding. This policy is not meant to
-be punitive: If your exam scores are not above passing after several attempts,
+be punitive: If your exam scores are not above passing,
 it indicates that you might be better served by retaking the class with a fresh
-start before moving on to later courses which will draw upon the material from
-DSC 40B.
+start.
 
 ## Grading
 
 We'll be using the following grading scheme:
 
-- 12.5%: Labs
-- 30%: Homeworks
-- 7.5%: "Super Homework"
-- 25%: Midterm 01 (or Redemption Midterm 01, whichever is larger)
-- 25%: Midterm 02 (or Redemption Midterm 02, whichever is larger)
+- 20%: Labs
+- 20%: Homeworks
+- 20%: Midterm
+- 20%: Final exam 
+- 10%: Class participation: This grade captures how much you contribute to your own 
+learning and that of your peers. Since different students have different styles, 
+there are many ways to earn full credit for this part of the course. 
+You can actively participate in class. You can ask good questions, or answer those of 
+your peers, on the class Ed forum. You can attend and actively contribute to office hours.
 
-In a typical quarter, the midterm redemption policy has the same effect as a
-traditional "curve", therefore replacing the need for one.  The standard grading
-scale (where an A is 93+, A- is 90+, B+ is 87+, etc.) will be used as a starting
-point, but once all scores are in, we will run a clustering algorithm to
-automatically find the best cutoffs for each letter grade. These cutoffs can
-only be lowered. For instance, the threshold for an "A" will never be higher
-than 93%.
 
-A+ grades are not awarded according to a threshold. Instead, A+'s are awarded
-to the top 5% of students by overall grade.
+Note that in order to pass the class, the mean of your two exams scores must be 60% or greater.
 
-Note that in order to pass the class, the mean of your two midterm scores (after redemption is taken into account) must be 60% or greater.
+## Course Objective
 
+- Students will learn how to view and formulate real world problems in the language of 
+machine learning. Categories of problems include those involving prediction, classification, 
+pattern recognition, and decision making.
+
+- Through in-class demonstrations and at-homeprogramming labs, students will gain experiencea pplying 
+the most popular and most successful machine learning algorithms to example problems. 
+The goal is to prepare students to use these tools in industrial or academic positions.
+
+- In addition to experimental exploration, students will learn how theoretical analysis 
+can help explain the performance of machine learning algorithms, and ultimately guide 
+how they are used in practice, or lead to the design of entirely new methods.
+
+- Students will build experience with the most important mathematical tools used in machine learning, 
+including probability, statistics, and linear algebra. This experience will prepare them for 
+more advanced coursework or research in the subject.
+
+- A major goal is to prepare students to read and understand contemporary research in 
+machine learning, including papers from NeurIPS, ICML, ICLR, AAAI, JMLR, and other major 
+machine learning venues. Since machine learning is a rapidly evolving field, many of its most 
+powerful tools today may no longer be relevant in 15 years. The goal is to provide students with a 
+theoretical foundation that will allow them to keep up with changes in the field.
+
+- At the end of this course, every student should feel confident holding a conversation about 
+machine learning with anyone, no matter their experience in the field. This would include a 
+potential employer, a professor or graduate student working in the field, or a stranger on the subway.
 
 ## Support and Resources
 
@@ -388,12 +275,7 @@ something we can do in this mission, or if there is something preventing you
 from succeeding in the class, please let us know. If you feel uncomfortable
 speaking with us or are searching for help on a specific
 concern, there are several campus resources
-available to you, including:
-
-- [UCSD Counseling and Psychological Services (CAPS)](https://caps.ucsd.edu/)
-- [Hub Basic Needs Center](https://thehub.ucsd.edu/)
-- [Office for Students with Disability (OSD)](https://osd.ucsd.edu/)
-- [Office for Prevention of Sexual Harrassment and Discrimination](https://blink.ucsd.edu/HR/policies/sexual/OPHD.html)
+available to you.
 
 More generally, if you have *any* concerns about your ability to focus or
 succeed in this course, or just need someone to talk to, *please* contact
@@ -401,16 +283,53 @@ us ASAP and we'll figure something out.
 
 ## OSD Exam Accommodations
 
-If you have exam accommodations from the OSD, you should receive an email from
-the data science program that will ask you to provide your availability for
-your accommodated exam. The program will then schedule the exam and notify the
-instructor of its time and location. If you do not receive such an email by the
-end of the second week of classes, please let us know!
+If you are student with a disability who is requesting accommodations, please contact 
+New York University’s Moses Center for Students with Disabilities (CSD) at 212-998-4980 or 
+mosescsd@nyu.edu. You must be registered with CSD to receive accommodations. 
+Information about the Moses Center can be found [here](https://www.nyu.edu/students/communities-and-groups/student-accessibility.html).
 
-Please be sure to respond to the email from the data science program; if the
-program does not hear back from you, they will be unable to schedule your
-accommodated exam.
+## NYU School of Engineering Policies and Procedures on Academic Misconduct
 
+### A. Introduction
+The School of Engineering encourages academic excellence in an environment that promotes 
+honesty, integrity, and fairness, and students at the School of Engineering are expected 
+to exhibit those qualities in their academic work. It is through the process of submitting 
+their own work and receiving honest feedback on that work that students may progress academically. 
+Any act of academic dishonesty is seen as an attack upon the School and will not be tolerated. 
+Furthermore, those who breach the School’s rules on academic integrity will be sanctioned under 
+this Policy. Students are responsible for familiarizing themselves with the School’s Policy on 
+Academic Misconduct.
+
+### B. Definition
+Academic dishonesty may include misrepresentation, deception, dishonesty, or any act of 
+falsification committed by a student to influence a grade or other academic evaluation. 
+Academic dishonesty also includes intentionally damaging the academic work of others or 
+assisting other students in acts of dishonesty. Common examples of academically dishonest 
+behavior include, but are not limited to, the following:
+
+1. **Cheating**: Intentionally using or attempting to use unauthorized notes, books, electronic
+ media, or electronic communications in an exam; talking with fellow students or looking at 
+ another person’s work during an exam; submitting work prepared in advance for an in-class 
+ examination; having someone take an exam for you or taking an exam for someone else; violating 
+ other rules governing the administration of examinations.
+
+2. **Fabrication**: Including but not limited to, falsifying experimental data and/or citations.
+
+3. **Plagiarism**: Intentionally or knowingly representing the words or ideas of another as one’s 
+own in any academic exercise; failure to attribute direct quotations, paraphrases, or borrowed facts 
+or information.
+
+4. **Unauthorized collaboration**: Working together on work meant to be done individually.
+
+5. **Duplicating work**: Presenting for grading the same work for more than one project or in more 
+than one class, unless express and prior permission has been received from the course instructor(s) 
+or research adviser involved.
+
+6. **Forgery**: Altering any academic document, including, but not limited to, academic records, 
+admissions materials, or medical excuses.
+
+
+<!--
 ## FAQ
 
 ### Is this class curved?
@@ -422,3 +341,4 @@ point, but once all scores are in, we will run a clustering algorithm to
 automatically find the best cutoffs for each letter grade. These cutoffs can
 only be lowered. For instance, the threshold for an "A" will never be higher
 than 93%.
+-->
