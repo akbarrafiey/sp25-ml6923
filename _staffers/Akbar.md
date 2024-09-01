@@ -1,7 +1,7 @@
 ---
 name: Akbar Rafiey
 role: Instructor
-email: arafiey@ucsd.edu
+email: ar9530@nyu.edu
 website: https://akbarrafiey.github.io
 photo: Akbar.jpg
 ---

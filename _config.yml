@@ -16,6 +16,7 @@
 title: CS-GY 6923
 tagline: Machine Learning
 description: CS-GY 6923, Fall 2024 at NYU
+lecture: Fridays at 2:00p-4:30p in TBD
 author: Akbar Rafiey
 baseurl: '/ML6923' # the subpath of your site, e.g. /blog
 url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com

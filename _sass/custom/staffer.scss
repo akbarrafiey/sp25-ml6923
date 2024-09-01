@@ -1,6 +1,11 @@
 .staffer {
   display: flex;
+  flex-direction: column; /* Stacks items vertically */
+  align-items: center; /* Centers items horizontally */
+  text-align: center; /* Centers the text under the image */
   margin: $sp-4 0;
+  flex: none; /* Prevents the staffers from growing or shrinking */
+  margin-right: 15px; /* Adds space between each staffer */
 
   .staffer-image {
     border-radius: 50%;
@@ -43,3 +48,30 @@
     }
   }
 }
+
+.ta-container {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents wrapping */
+  gap: 20px; /* Adjusts spacing between items */
+  justify-content: space-between; /* Distributes TAs evenly across the row */
+  width: 100%; /* Ensures the TAs take up the full width of the container */
+}
+
+.ta-container {
+  display: flex;
+  flex-wrap: nowrap; /* Prevents wrapping */
+  gap: 20px; /* Adjusts spacing between items */
+  justify-content: space-between; /* Distributes TAs evenly across the row */
+  width: 100%; /* Ensures the TAs take up the full width of the container */
+}
+
+.instructors-container {
+  display: flex;
+  justify-content: flex-start; /* Aligns the instructor to the left */
+  align-items: flex-start; /* Aligns items to the top of the container */
+  width: auto; /* Allows the container to adjust based on content */
+  margin: 0; /* Resets any margins */
+  padding: 0; /* Resets any padding */
+}
+
+

@@ -2,24 +2,26 @@
 title: Week 2
 ---
 
-Apr 09
-: **LEC 03**{: .label .label-gray } Asymptotic Time Complexity, pt. II
-  : [PDF](lectures/03-time-complexity-p2/Lec03.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/03-time-complexity-p2/Lec03-marked.pdf)
-: **Lab 02 Release**{: .label .label-yellow } 
-  : [On Gradescope](#)
+Sep 13
+: **LEC 02**{: .label .label-gray } Multiple Linear Regression, Data Transformations, Model Selection, Regularization
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 
-Apr 10
-: **Discussion 01**{: .label .label-green}
-  : [PDF ](discussion/discussion-01.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-01-marked.pdf)
-: **HW 02 posted**{: .label .label-red }
-  : [PDF ](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
-  : [LaTeX template](homeworks/HW02/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW02/HW02-solution.pdf)
+Homework
+: **Demo 03**{: .label .label-green } Multiple Regression 
+  : [Link](#) &nbsp;&nbsp;
+: **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
+  : [Link](#) &nbsp;&nbsp;
+: **HW 01 posted**{: .label .label-red }
+  : [PDF ](#) &nbsp;&nbsp;
+  : [LaTeX template](#) &nbsp;&nbsp;
+  : [Solution](#) &nbsp;&nbsp;
+  : **Due: Sep13, 11:59pm**{: .label .label-red }
 
-Apr 11
-: **LEC 04**{: .label .label-gray }Best, Worst, Average Time Complexity
-  : [PDF](lectures/04-avg-case/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/04-avg-case/Lec04-marked.pdf)
+Reading
+: Regularization 
+  : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
+: Computing Gradient
+  : [Notes by Chris Musco](https://www.chrismusco.com/machinelearning2023_grad/gradient_practice.pdf) &nbsp;&nbsp;
+  : [Raw Markdown](https://www.chrismusco.com/machinelearning2023_grad/gradient_practice.md)
 

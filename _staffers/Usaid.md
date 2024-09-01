@@ -2,5 +2,5 @@
 name: Usaid Malik
 role: Teaching Assistant
 email: uhm202@nyu.edu
-photo: Usaid.jpg
+photo: usaid.jpg
 ---

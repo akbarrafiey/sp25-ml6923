@@ -3,7 +3,7 @@
 Welcome to CS-GY 6923 in Fall 2024!
 This page should answer most of the questions you might have about how the
 course is run. If you don't find what you're looking for here, feel free to
-make a post on [Campuswire](#).
+make a post on [EdStem](#).
 
 
 ## Instructor
@@ -12,10 +12,10 @@ make a post on [Campuswire](#).
     `arafiey@ucsd.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     *Lecture:*
-        2:30p-4:50p Fridays in TBD
+        2:00pm-4:30pm Fridays in Tandon, Jacobs Academic Bldg Room 473 Loc: Brooklyn Campus
         <br>
     *Office Hours:*
-        TBD
+        9:00am-10:00am Fridays in TBD
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ couple of websites.
 
 ### Campuswire
 
-We'll be using [Campuswire](#) as our course message
+We'll be using [ ](#) as our course message
 board. You should have received an invitation via email, but if not you should
 be able to join by clicking the link above and using the access code `????`. Be sure sure to join Campuswire as soon as possible,
 since all course communication will be done through it.
@@ -117,7 +117,7 @@ time on them is the best way to prepare for the exams. Assignments and their due
 
 There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
 Homework (both written problems and coding labs) must be turned in to Gradescope by the 
-specified deadline. Use the code ????? to join the class on [Gradescope](#). 
+specified deadline. Use the code VDE3W3 to join the class on [Gradescope](#). 
 We do not accept late work without prior permission.
 
 *Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 

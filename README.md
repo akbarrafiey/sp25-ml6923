@@ -11,16 +11,31 @@ seo:
 # {{ site.tagline }}
 {: .mb-2 }
 {{ site.description }}
-{: .fs-6 .fw-300 }
+{: .fs-6 .fw-300 .mb-1 }
 
+**Lectures:** {{ site.lecture }}
+{: .fs-6 .fw-300 .mt-0 }
 
 ## Instructor
 
- **Dr. Akbar Rafiey**<br>
-    `ar9530@nyu.edu`<br>
-    [webpage](https://akbarrafiey.github.io)<br>
-    **Lecture:**
-        Fridays at 2:30p-4:30p in TBD
+<div class="instructors-container">
+  {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
+  {% for staffer in instructors %}
+    {{ staffer }}
+  {% endfor %}
+</div>
+
+{% assign teaching_assistants = site.staffers | where: 'role', 'Teaching Assistant' %}
+{% assign num_teaching_assistants = teaching_assistants | size %}
+{% if num_teaching_assistants != 0 %}
+## Teaching Assistants
+
+<div class="ta-container">
+  {% for staffer in teaching_assistants %}
+    {{ staffer }}
+  {% endfor %}
+</div>
+{% endif %}
 
 
 ## How to get started:
@@ -30,8 +45,8 @@ seo:
 
 
 {{  site.modules[0]  }}
-<!--
 {{  site.modules[1]  }}
+<!--
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
 {{  site.modules[4]  }}
