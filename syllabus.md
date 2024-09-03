@@ -23,21 +23,21 @@ To get started in CS-GY 6923, you'll need to set up accounts on a
 couple of websites.
 
 
-### Campuswire
+### Ed Discussion
 
-We'll be using [ ](#) as our course message
+We'll be using [EdStem](#) as our course message
 board. You should have received an invitation via email, but if not you should
-be able to join by clicking the link above and using the access code `????`. Be sure sure to join Campuswire as soon as possible,
+be able to join by clicking the link above and using the access code `????`. Be sure sure to join EdStem as soon as possible,
 since all course communication will be done through it.
 
 If you have a question about anything to do with the course  &mdash; if you're
 stuck on a homework problem, want clarification on the logistics, or just have a
-general question about data science &mdash; you can make a post on Campuswire.
+general question about data science &mdash; you can make a post on EdStem.
 We only ask that if your question includes some or all of an answer, please make
 your post **private** so that others cannot see it. You can also post
 anonymously if you would prefer.
 
-Course staff will regularly check Campuswire and try to answer any questions
+Course staff will regularly check EdStem and try to answer any questions
 that you have. You're also encouraged to answer a question asked by another
 student if you feel that you know the answer.
 
@@ -45,11 +45,11 @@ student if you feel that you know the answer.
 ### Gradescope
 
 We'll be using 
-[Gradescope](#) for
+[Gradescope](https://www.gradescope.com/courses/851254) for
 homework submission and grading. Most of the assignments will be a mixture of math and
 coding.
 You should have received an email invitation for Gradescope, but if not you can join with code
-`????`.
+`VDE3W3`.
 
 ## Course Prerequisites
 
@@ -97,7 +97,7 @@ they will be podcasted and posted online for remote viewing. Attendance is
 appreciated, but not required.
 
 
-You will be able to find the lecture recordings at [????](#).
+You will be able to find the lecture recordings at [NYU Brightspace](#).
 
 
 ## Office Hours
@@ -126,7 +126,8 @@ the output before turning in.
 <br>
 
 *Written problem sets*: Turned in via Gradescope. While not required, I encourage students to 
-prepare written problem sets in LaTeX or Markdown (with math support.) You can use this [template](#) for LaTeX.
+prepare written problem sets in LaTeX or Markdown (with math support.) You can use the template 
+for LaTeX provided on the course webpage.
 Students will receive 10% extra credit on the Problem Set 1 for preparing it in LaTeX or Markdown. 
 If you do write problems by hand, scan and upload as a PDF.
 
@@ -135,7 +136,8 @@ If you do write problems by hand, scan and upload as a PDF.
 ### Regrade Requests
 
 If you feel that the grader has made a mistake, you may submit a regrade request
-via Gradescope within *one week* of the grades being released. Note that part
+via Gradescope within *one week* of the grades being released. Or you can contact 
+the TAs on Ed, who will escalate to me as necessary. Note that part
 of your grade is clarity, so if your answer was mostly right but unclear you may
 still not receive full credit.
 
@@ -170,12 +172,14 @@ need to understand the fundamental concepts for yourself in order to do well.
 
 - If you have any questions or worries about whether your collaboration
 constitutes a violation of academic integrity, feel free to ask us on
-Campuswire.
+EdStem.
 
 ## Slip Days
 
-You have ***three*** **slip days** to use throughout the quarter on any lab or homework
-(including the super homework). A slip day extends the deadline by 24 hours.
+You have ***three*** **slip days** 
+to use throughout the quarter on any lab or homework, except for 
+those we specifically exclude, such as the homework due before the midterm. 
+A slip day extends the deadline by 24 hours.
 Slip days cannot be "stacked" or "combined" to extend the deadline further
 &mdash; the latest any assignment can be submitted is 24 hours after the
 deadline. Slip days are applied automatically at the end of the semester, but
@@ -201,7 +205,7 @@ the class. If something like that should arise, please let us know ASAP!
 There will be one midterm exam and one final exam:
 
 
-- **Midterm**: Friday, May 02 TBD
+- **Midterm**: Friday, Oct 18 
 - **Final Exam**: TBD
 
 The midterm exam will be held in-person during the regularly-scheduled lecture times. 
@@ -328,17 +332,18 @@ or research adviser involved.
 6. **Forgery**: Altering any academic document, including, but not limited to, academic records, 
 admissions materials, or medical excuses.
 
+## NYU School of Engineering Policies and Procedures on Excused Absences
+The complete policy can be found [here](https://engineering.nyu.edu/life-tandon/student-life/student-advocacy).
+- Introduction: An absence can be excused if you have missed no more than 10 days of school. If an illness or special circumstance has caused you to miss more than two weeks of school, please refer to the section labeled Medical Leave of Absence.
+- Students may request special accommodations for an absence to be excused in the following cases:
+    - Medical reasons
+    - Death in immediate family
+    - Personal qualified emergencies (documentation must be provided) 
+    - Religious Expression or Practice
 
-<!--
-## FAQ
 
-### Is this class curved?
+Deanna Rayment, deanna.rayment@nyu.edu, is the Coordinator of Student Advocacy, Compliance and Student Affairs and handles excused absences. She is located in 5 MTC, LC240C and can assist you should it become necessary. 
 
-In a typical quarter, the midterm redemption policy has the same effect as a
-traditional "curve", therefore replacing the need for one.  The standard grading
-scale (where an A is 93+, A- is 90+, B+ is 87+, etc.) will be used as a starting
-point, but once all scores are in, we will run a clustering algorithm to
-automatically find the best cutoffs for each letter grade. These cutoffs can
-only be lowered. For instance, the threshold for an "A" will never be higher
-than 93%.
--->
+## NYU School of Engineering Academic Calendar
+
+The full calendar can be found [here](https://www.nyu.edu/students/student-information-and-resources/registration-records-and-graduation.html). Please pay attention to notable dates such as Add/Drop, Withdrawal, etc. For confirmation of dates or further information, please contact Susana Garcia: sgarcia@nyu.edu.
