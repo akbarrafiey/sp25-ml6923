@@ -5,8 +5,8 @@ title: Week 1
 
 Sep 06
 : **LEC 01**{: .label .label-gray } Introduction, Loss Functions, Simple Linear Regression
-  : [PDF](lectures/01-intro/Lec01.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/01-intro/Lec01-marked.pdf)
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 
 Homework
 : **Demo 01**{: .label .label-green } Numpy, arrays, and plotting

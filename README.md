@@ -12,9 +12,10 @@ seo:
 {: .mb-2 }
 {{ site.description }}
 {: .fs-6 .fw-300 .mb-1 }
-
 **Lectures:** {{ site.lecture }}
-{: .fs-6 .fw-300 .mt-0 }
+{: .fs-5.5 .fw-300 .mb-1 }
+**Location:** {{ site.location }}
+{: .fs-5.5 .fw-300 .mt-0 }
 
 ## Instructor
 
@@ -39,14 +40,14 @@ seo:
 
 
 ## How to get started:
-
 - Read the [syllabus](syllabus.md).
-- Join our [Campuswire](https://campuswire.com/p/GAA99D8BF) message board and [Gradescope](https://www.gradescope.com/courses/760595) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code XXZVRD for Gradescope (the link above for Campuswire will automatically let you join the class without a code).
+- Join our [EdStem](#) message board and [Gradescope](https://www.gradescope.com/courses/760595) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code VDE3W3 for Gradescope (the link above for Campuswire will automatically let you join the class without a code).
 
 
 {{  site.modules[0]  }}
-{{  site.modules[1]  }}
+
 <!--
+{{  site.modules[1]  }}
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
 {{  site.modules[4]  }}

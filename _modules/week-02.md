@@ -12,10 +12,11 @@ Homework
   : [Link](#) &nbsp;&nbsp;
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
   : [Link](#) &nbsp;&nbsp;
+
 : **HW 01 posted**{: .label .label-red }
-  : [PDF ](#) &nbsp;&nbsp;
-  : [LaTeX template](#) &nbsp;&nbsp;
-  : [Solution](#) &nbsp;&nbsp;
+  : [PDF](#) &nbsp;
+  : [LaTeX](#) &nbsp;
+  : [Solution](#) &nbsp;
   : **Due: Sep13, 11:59pm**{: .label .label-red }
 
 Reading

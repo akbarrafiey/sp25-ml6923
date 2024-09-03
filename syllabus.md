@@ -118,7 +118,7 @@ time on them is the best way to prepare for the exams. Assignments and their due
 There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
 Homework (both written problems and coding labs) must be turned in to Gradescope by the 
 specified deadline. Use the code VDE3W3 to join the class on [Gradescope](#). 
-We do not accept late work without prior permission.
+We do not accept late work without prior permission (see ["Slip Days"](#slip-days)).
 
 *Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 
 the output before turning in. 
