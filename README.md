@@ -41,7 +41,7 @@ seo:
 
 ## How to get started:
 - Read the [syllabus](syllabus.md).
-- Join our [EdStem](#) message board and [Gradescope](https://www.gradescope.com/courses/760595) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code VDE3W3 for Gradescope (the link above for Campuswire will automatically let you join the class without a code).
+- Join our [Ed Discussion](https://edstem.org/us/courses/65970/discussion/) message board and [Gradescope](https://www.gradescope.com/courses/853543) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code Z3GWBN for Gradescope (the link above for Ed Discussion will automatically let you join the class without a code).
 
 
 {{  site.modules[0]  }}
