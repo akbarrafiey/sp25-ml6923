@@ -14,8 +14,8 @@ Homework
 : **Demo 02**{: .label .label-green } Simple regression example
   : [Link](https://drive.google.com/file/d/10kzCVJuSTf6xuG_M2o6G4iyM5Y991oMc/view) &nbsp;&nbsp;
 : **Lab 01 Release**{: .label .label-yellow } 
-  : [Link](#) &nbsp;&nbsp;
-  : **Due: Sep13, 11:59pm**{: .label .label-yellow }
+  : [Link](https://drive.google.com/file/u/0/d/1s18Mn4285xmav76bMdL-978fp_omjSph/edit) &nbsp;&nbsp;
+  : **Due: Sep16, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Probability Review 
