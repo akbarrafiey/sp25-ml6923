@@ -45,8 +45,6 @@ seo:
 
 
 {{  site.modules[0]  }}
-
-<!--
 {{  site.modules[1]  }}
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
@@ -57,4 +55,9 @@ seo:
 {{  site.modules[8]  }}
 {{  site.modules[9]  }}
 {{  site.modules[10]  }}
--->
+{{  site.modules[11]  }}
+{{  site.modules[12]  }}
+{{  site.modules[13]  }}
+{{  site.modules[14]  }}
+{{  site.modules[15]  }}
+{{  site.modules[16]  }}

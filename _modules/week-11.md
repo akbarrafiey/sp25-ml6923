@@ -1,8 +1,8 @@
 ---
-title: Finals Week
+title: Week 11
 ---
 
-Jun 11
-: **Redemption Exams**{: .label .label-purple } 
-  : **Location:**  &nbsp; PCYNH 109 <br> 
-   **Time:** &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 7:00pm - 10:00pm
+Nov 15
+: **LEC 10**{: .label .label-gray } Convolution, Feature Extraction, Adversarial Examples
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)

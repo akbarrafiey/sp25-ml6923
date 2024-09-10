@@ -2,24 +2,17 @@
 title: Week 8
 ---
 
-May 21
-: **LEC 14**{: .label .label-gray } Bellman-Ford
-  : [PDF](lectures/14-bellman_ford/Lec14.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/14-bellman_ford/Lec14-marked.pdf)
-: **Lab 08 Release**{: .label .label-yellow } 
-  : [On Gradescope](#)
+Oct 25
+: **LEC 07**{: .label .label-gray } Learning Theory, the PAC model
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 
-May 22
-: **Discussion 07**{: .label .label-green}
-  : [PDF ](discussion/discussion-07.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-07-marked.pdf)
-: **HW 08 posted**{: .label .label-red }
-  : [PDF ](homeworks/HW08/HW08.pdf) &nbsp;&nbsp;
-  : [LaTeX template](homeworks/HW08/template.zip) &nbsp;&nbsp;
-  : [Solution](homeworks/HW08/HW08-marked.pdf)
 
-May 23
-: **LEC 15**{: .label .label-gray } Dijkstra's Algorithm
-  : [PDF](lectures/15-dijkstra/Lec15.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/15-dijkstra/Lec15-marked.pdf)
+Oct 26
+: **HW 03 posted**{: .label .label-red }
+  : [PDF](#) &nbsp;&nbsp;
+  : [Solution](#) &nbsp;&nbsp;
+  : [LaTeX](#) &nbsp;&nbsp;
+: **Due: Nov 07, 11:59pm**{: .label .label-red }
+
 

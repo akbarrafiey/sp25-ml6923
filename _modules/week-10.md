@@ -2,19 +2,14 @@
 title: Week 10
 ---
 
-Jun 04
-: **LEC 17**{: .label .label-gray } Kruskal's Algorithm
-  : [PDF](lectures/17-kruskal/Lec17.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/17-kruskal/Lec17-marked.pdf)
+Nov 08
+: **LEC 09**{: .label .label-gray } Neural Networks
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 
-Jun 05
-: **Discussion 09**{: .label .label-green}
-  : [PDF ](discussion/discussion-09.pdf) &nbsp;&nbsp;
-  : [Solution](discussion/discussion-09-marked.pdf)
+Nov 09
+: **Lab 04 Release**{: .label .label-yellow } 
+  : [Link](#) &nbsp;&nbsp;
+  : **Due: Nov 21, 11:59pm**{: .label .label-yellow }
 
-
-Jun 06
-: **LEC 18**{: .label .label-gray } Complexity Theory (Optional)
-  : [PDF](lectures/18-np_completeness/Lec18.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/18-np_completeness/Lec18-marked.pdf)
 
