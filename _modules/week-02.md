@@ -13,7 +13,7 @@ Sep 13
 
 Sep 14
 : **Lab 02 Release**{: .label .label-yellow } 
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/u/0/d/1edDOH1gs1-5jBu-lrKGyRnJV0ZQd90_q/edit) &nbsp;&nbsp;
   : **Due: Sep24, 11:59pm**{: .label .label-yellow }
 
 Reading
