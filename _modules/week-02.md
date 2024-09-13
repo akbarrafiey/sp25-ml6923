@@ -7,16 +7,14 @@ Sep 13
   : [PDF](lectures/02-multiple-regression/Lec02.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 : **Demo 03**{: .label .label-green } Multiple Regression 
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1yvq0DLyIIWlmsJ6xYKQFDfYDgo2dzVxf/view) &nbsp;&nbsp;
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1WrE0wFpcns00wU2uQgR4IWKm0CATGwpv/view) &nbsp;&nbsp;
 
 Sep 14
-: **HW 01 posted**{: .label .label-red }
-  : [PDF](#) &nbsp;&nbsp;
-  : [Solution](#) &nbsp;&nbsp;
-  : [LaTeX](#) &nbsp;&nbsp;
-: **Due: Sep26, 11:59pm**{: .label .label-red }
+: **Lab 02 Release**{: .label .label-yellow } 
+  : [Link](#) &nbsp;&nbsp;
+  : **Due: Sep24, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Computing Gradient
