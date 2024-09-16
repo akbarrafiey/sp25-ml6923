@@ -230,10 +230,10 @@ start.
 
 We'll be using the following grading scheme:
 
-- 20%: Labs
-- 20%: Homeworks
-- 20%: Midterm
-- 20%: Final exam 
+- 20%: Programming Labs
+- 20%: Written Homeworks
+- 25%: Midterm
+- 25%: Final exam 
 - 10%: Class participation: This grade captures how much you contribute to your own 
 learning and that of your peers. Since different students have different styles, 
 there are many ways to earn full credit for this part of the course. 
