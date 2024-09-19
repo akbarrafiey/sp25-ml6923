@@ -7,8 +7,5 @@ Sep 27
   : [PDF](lectures/07-quickselect/Lec07.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/07-quickselect/Lec07-marked.pdf)
 
-Sep 28
-: **Lab 02 Release**{: .label .label-yellow } 
-  : [Link](#) &nbsp;&nbsp;
-  : **Due: Oct 10, 11:59pm**{: .label .label-yellow }
+
 
