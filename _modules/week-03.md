@@ -11,8 +11,10 @@ Sep 18
 
 Sep 20
 : **LEC 03**{: .label .label-gray } Naive Bayes
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/03-naive-bayes/Lec03.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 
 
-
+Reading
+: Regularization 
+  : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
