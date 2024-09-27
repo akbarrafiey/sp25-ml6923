@@ -17,4 +17,7 @@ Sep 20
 
 Reading
 : Regularization 
-  : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
+  : [Caltech Lec 12](https://work.caltech.edu/lectures.html#lectures) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  : Chapter 6.2 in AISL
+: Naive Bayes
+  : [Additional Lecture Notes](https://www.chrismusco.com/machinelearning2024_grad/lectures/naive_bayes_extra.pdf)
