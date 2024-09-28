@@ -18,3 +18,8 @@ Oct 05
 : **Due: Oct 16, 11:59pm**{: .label .label-red }
 
 
+Reading
+: Logistic regression
+  : Chapter 4.1-4.3 in AISL &nbsp;&nbsp;&nbsp;&nbsp;
+  : [Note](https://cs229.stanford.edu/notes2019fall/cs229-notes1.pdf) on Least Squares Regression
+  
