@@ -5,7 +5,7 @@ title: Week 4
 Sep 27
 : **LEC 04**{: .label .label-gray } Bayesian Machine Learning, Modeling Language
   : [PDF](lectures/04-more-naive-bayes/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/04-more-naive-bayes/Lec04-marked.pdf)
 
 Sep 28
 : **Lab 03 Release**{: .label .label-yellow } 
