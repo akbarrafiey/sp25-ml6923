@@ -9,7 +9,7 @@ Sep 27
 
 Sep 28
 : **Lab 03 Release**{: .label .label-yellow } 
-  : [Link](https://colab.research.google.com/drive/1pLjkXj1L07LwWOnLv88eDT-0HI_MOhlA?authuser=2) &nbsp;&nbsp;
+  : [Link](https://colab.research.google.com/drive/1pLjkXj1L07LwWOnLv88eDT-0HI_MOhlA?) &nbsp;&nbsp;
   : **Due: Oct 08, 11:59pm**{: .label .label-yellow }
 
 Reading
