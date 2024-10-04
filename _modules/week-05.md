@@ -15,7 +15,7 @@ Oct 04
   : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/05-classification/Lec05-marked.pdf)
 : **Demo 05**{: .label .label-green } Logistic regression
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1wNi3tsikGBL7pvjXPfqAqXi7GL-jkkXJ/view?usp=sharing) &nbsp;&nbsp;
 
 
 Reading
