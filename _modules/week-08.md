@@ -4,15 +4,13 @@ title: Week 8
 
 Oct 25
 : **LEC 07**{: .label .label-gray } Learning Theory, the PAC model
-  : [PDF](#) &nbsp;&nbsp;
+  : [PDF](lectures/07-learning-theory-pac/Lec07.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 
 
 Oct 26
-: **HW 03 posted**{: .label .label-red }
-  : [PDF](#) &nbsp;&nbsp;
-  : [Solution](#) &nbsp;&nbsp;
-  : [LaTeX](#) &nbsp;&nbsp;
-: **Due: Nov 07, 11:59pm**{: .label .label-red }
+: **Lab 04 Release**{: .label .label-yellow } 
+  : [Link](https://colab.research.google.com/drive/1Z9HNZJQWkyZLN5C4Tc0c6dI-OnROSQsc?) &nbsp;&nbsp;
+  : **Due: Nov 05, 11:59pm**{: .label .label-yellow }
 
 
