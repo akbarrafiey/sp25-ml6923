@@ -5,7 +5,7 @@ title: Week 8
 Oct 25
 : **LEC 07**{: .label .label-gray } Learning Theory, the PAC model
   : [PDF](lectures/07-learning-theory-pac/Lec07.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/07-learning-theory-pac/Lec07-marked.pdf)
 
 
 Oct 26
