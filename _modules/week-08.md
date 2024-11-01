@@ -14,3 +14,6 @@ Oct 26
   : **Due: Nov 05, 11:59pm**{: .label .label-yellow }
 
 
+Reading
+: PAC Learning
+  : [Note](https://www.cs.cornell.edu/courses/cs6781/2020sp/lectures/03-pac1.pdf) from Nika Haghtalab
