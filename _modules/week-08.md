@@ -17,3 +17,7 @@ Oct 26
 Reading
 : PAC Learning
   : [Note](https://www.cs.cornell.edu/courses/cs6781/2020sp/lectures/03-pac1.pdf) from Nika Haghtalab
+: VC dimension
+  : [Note](https://www.cs.cornell.edu/courses/cs6781/2020sp/lectures/04-pac2.pdf) from Nika's course
+: More on VC dimention and Rademacher complexity
+  : [Book](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf) Chapters 6 and 26
