@@ -16,8 +16,11 @@ Nov 07
 Nov 08
 : **LEC 09**{: .label .label-gray } Neural Networks and Backpropagation
   : [PDF](lectures/09-nn-backpropagation/Lec09.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
-
+  : [Marked-PDF](lectures/09-nn-backpropagation/Lec09-marked.pdf)
+: **Demo 07**{: .label .label-green } Keras NN on synthetic data
+  : [Link](https://drive.google.com/file/d/1nHZ0B1SMO3U3aKYG0NMZIIWUihdnrP96/view?usp=sharing) &nbsp;&nbsp;
+: **Demo 08**{: .label .label-green } Keras NN on MNIST data
+  : [Link](https://drive.google.com/file/d/1Z1cOmLLLEUA2zaB_tKwTsSfFgjFNVASr/view?usp=sharing) &nbsp;&nbsp;
 
 Nov 09
 : Reading
