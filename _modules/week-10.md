@@ -11,7 +11,7 @@ Nov 07
   : [PDF](homeworks/HW03/HW03.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
-: **Due: Nov 26, 11:59pm**{: .label .label-red }
+: **Due: Dec 02, 11:59pm**{: .label .label-red }
 
 Nov 08
 : **LEC 09**{: .label .label-gray } Neural Networks and Backpropagation
