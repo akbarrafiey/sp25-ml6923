@@ -11,6 +11,6 @@ Dec 02
   : [UScities.txt dataset](homeworks/HW04/UScities.txt)
 
 Dec 06
-: **LEC 12**{: .label .label-gray } Semantic embeddings, Image Synthesis
-  : [PDF](#) &nbsp;&nbsp;
+: **LEC 12**{: .label .label-gray } PCA, Semantic Embeddings, Image Synthesis
+  : [PDF](lectures/12-pca-embeding/Lec12.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
