@@ -41,11 +41,12 @@ seo:
 
 ## How to get started:
 - Read the [syllabus](syllabus.md).
-- Join our [Ed Discussion](https://edstem.org/us/courses/65970/discussion/) message board and [Gradescope](https://www.gradescope.com/courses/853543) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code Z3GWBN for Gradescope (the link above for Ed Discussion will automatically let you join the class without a code).
+- Join our [Ed Discussion](#) message board and [Gradescope](https://www.gradescope.com/courses/959935) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code G3NXW3 for Gradescope (the link above for Ed Discussion will automatically let you join the class without a code).
 
 
 {{  site.modules[0]  }}
 {{  site.modules[1]  }}
+{% comment %}
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
 {{  site.modules[4]  }}
@@ -61,3 +62,4 @@ seo:
 {{  site.modules[14]  }}
 {{  site.modules[15]  }}
 {{  site.modules[16]  }}
+{% endcomment %}

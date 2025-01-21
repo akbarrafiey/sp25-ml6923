@@ -15,11 +15,11 @@
 # in the templates via {{ site.myvariable }}.
 title: CS-GY 6923
 tagline: Machine Learning
-description: CS-GY 6923, Fall 2024 at NYU
-lecture: Fridays at 2:00-4:30pm 
-location: Jacobs Academic Bldg, Room 473, Brooklyn Campus
+description: CS-GY 6923, Spring 2025 at NYU
+lecture: Fridays at 11:00am-01:30pm 
+location: 2 MetroTech Center Room 817, Brooklyn Campus
 author: Akbar Rafiey
-baseurl: '/ML6923' # the subpath of your site, e.g. /blog
+baseurl: '/sp25-ml6923' # the subpath of your site, e.g. /blog
 url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -32,6 +32,8 @@ permalink: pretty
 aux_links:
   Akbar Rafiey:
     - 'https://akbarrafiey.github.io'
+  Previous Teaching:
+    - 'https://akbarrafiey.github.io/ML6923/'
   #Just the Class on GitHub:
    # - 'https://github.com/kevinlin1/just-the-class'
 footer_content:

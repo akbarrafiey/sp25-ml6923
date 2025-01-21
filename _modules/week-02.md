@@ -2,19 +2,19 @@
 title: Week 2
 ---
 
-Sep 13
+Jan 31
 : **LEC 02**{: .label .label-gray } Multiple Linear Regression, Polynimial Regression, Model Selection
-  : [PDF](lectures/02-multiple-regression/Lec02.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/02-multiple-regression/Lec02-marked.pdf)
+  : [PDF]() &nbsp;&nbsp;
+  : [Marked-PDF]()
 : **Demo 03**{: .label .label-green } Multiple Regression 
-  : [Link](https://drive.google.com/file/d/1yvq0DLyIIWlmsJ6xYKQFDfYDgo2dzVxf/view) &nbsp;&nbsp;
+  : [Link]() &nbsp;&nbsp;
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
-  : [Link](https://drive.google.com/file/d/1WrE0wFpcns00wU2uQgR4IWKm0CATGwpv/view) &nbsp;&nbsp;
+  : [Link]() &nbsp;&nbsp;
 
-Sep 14
+Feb 01
 : **Lab 02 Release**{: .label .label-yellow } 
-  : [Link](https://drive.google.com/file/u/0/d/1edDOH1gs1-5jBu-lrKGyRnJV0ZQd90_q/edit) &nbsp;&nbsp;
-  : **Due: Sep24, 11:59pm**{: .label .label-yellow }
+  : [Link]() &nbsp;&nbsp;
+  : **Due: Feb11, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Computing Gradient

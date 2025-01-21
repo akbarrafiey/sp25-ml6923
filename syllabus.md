@@ -1,6 +1,6 @@
 # 📜 Syllabus
 
-Welcome to CS-GY 6923 in Fall 2024!
+Welcome to CS-GY 6923 in Spring 2025!
 This page should answer most of the questions you might have about how the
 course is run. If you don't find what you're looking for here, feel free to
 make a post on [EdStem](https://edstem.org/us/courses/65970/discussion/).
@@ -9,13 +9,13 @@ make a post on [EdStem](https://edstem.org/us/courses/65970/discussion/).
 ## Instructor
 
 - **Dr. Akbar Rafiey**<br>
-    `arafiey@ucsd.edu`<br>
+    `ar9530 [at] nyu.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     *Lecture:*
-        2:00pm-4:30pm Fridays in Tandon, Jacobs Academic Bldg Room 473 Loc: Brooklyn Campus
+        11:00qm-1:30pm Fridays, 2 MetroTech Center Room 817: Brooklyn Campus
         <br>
     *Office Hours:*
-        9:00am-10:00am Fridays in TBD
+        11:00am-1:30pm Fridays in TBD
 
 ## Getting Started
 
@@ -25,7 +25,7 @@ couple of websites.
 
 ### Ed Discussion
 
-We'll be using [EdStem](https://edstem.org/us/courses/65970/discussion/) as our course message
+We'll be using [EdStem](#) as our course message
 board. You should have received an invitation via email, but if not you should
 be able to join by clicking the link above. Be sure sure to join EdStem as soon as possible,
 since all course communication will be done through it.
@@ -45,11 +45,11 @@ student if you feel that you know the answer.
 ### Gradescope
 
 We'll be using 
-[Gradescope](https://www.gradescope.com/courses/853543) for
+[Gradescope](https://www.gradescope.com/courses/959935) for
 homework submission and grading. Most of the assignments will be a mixture of math and
 coding.
 You should have received an email invitation for Gradescope, but if not you can join with code
-`Z3GWBN`.
+`G3NXW3`.
 
 ## Course Prerequisites
 
@@ -97,7 +97,7 @@ they will be podcasted and posted online for remote viewing. Attendance is
 appreciated, but not required.
 
 
-You will be able to find the lecture recordings at [NYU Brightspace](#).
+You will be able to find the lecture recordings at our [NYU Brightspace Course](#).
 
 
 ## Office Hours
@@ -110,14 +110,14 @@ hours](#) page for the schedule and for instructions.
 
 ## Labs and Homeworks
 
-These as- signments are completed at home and reinforce the material discussed in class. 
+These assignments are completed at home and reinforce the material discussed in class. 
 I expect a lot of your learning to occur while working on these exercises, and investing 
 time on them is the best way to prepare for the exams. Assignments and their due dates
  will be posted on the course webpage.
 
 There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
 Homework (both written problems and coding labs) must be turned in to Gradescope by the 
-specified deadline. Use the code Z3GWBN to join the class on [Gradescope](https://www.gradescope.com/courses/853543). 
+specified deadline. Use the code Z3GWBN to join the class on [Gradescope](https://www.gradescope.com/courses/959935). 
 We do not accept late work without prior permission (see ["Slip Days"](#slip-days)).
 
 *Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 
@@ -200,12 +200,11 @@ the class. If something like that should arise, please let us know ASAP!
 
 ## Exams
 
-### Midterms
 
 There will be one midterm exam and one final exam:
 
 
-- **Midterm**: Friday, Oct 18 
+- **Midterm**:  March 14 
 - **Final Exam**: TBD
 
 The midterm exam will be held in-person during the regularly-scheduled lecture times. 
@@ -213,18 +212,6 @@ Make sure you are available on those day. If there is any issue, let me know ASA
 The final will be during the finals weeks.
 
 
-
-
-### Exam Pass Criterion
-
-In order to pass the class, the mean of your two exams scores must be 60% or greater.
-
-The reason for this policy is that the exams are the only assessment in this
-class which you are sure to complete by yourself, and so they are (in theory)
-the purest measure of your individual understanding. This policy is not meant to
-be punitive: If your exam scores are not above passing,
-it indicates that you might be better served by retaking the class with a fresh
-start.
 
 ## Grading
 
@@ -241,7 +228,6 @@ You can actively participate in class. You can ask good questions, or answer tho
 your peers, on the class Ed forum. You can attend and actively contribute to office hours.
 
 
-Note that in order to pass the class, the mean of your two exams scores must be 60% or greater.
 
 ## Course Objective
 

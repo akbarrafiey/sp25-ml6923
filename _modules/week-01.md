@@ -3,19 +3,19 @@ title: Week 1
 ---
 
 
-Sep 06
+Jan 24
 : **LEC 01**{: .label .label-gray } Introduction, Loss Functions, Simple Linear Regression
-  : [PDF](lectures/01-intro/Lec01.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/01-intro/Lec01-marked.pdf)
+  : [PDF](#) &nbsp;&nbsp;
+  : [Marked-PDF](#)
 : **Demo 01**{: .label .label-green } Numpy, arrays, and plotting
-  : [Link](https://drive.google.com/file/d/1QEEYJNHMHWN1zRIcjgWPShYeXpkcI0ko/view) &nbsp;&nbsp;
+  : [Link](#) &nbsp;&nbsp;
 : **Demo 02**{: .label .label-green } Simple regression example
-  : [Link](https://drive.google.com/file/d/10kzCVJuSTf6xuG_M2o6G4iyM5Y991oMc/view) &nbsp;&nbsp;
+  : [Link](#) &nbsp;&nbsp;
 
-Sep 07
+Jan 25
 : **Lab 01 Release**{: .label .label-yellow } 
-  : [Link](https://drive.google.com/file/u/0/d/1s18Mn4285xmav76bMdL-978fp_omjSph/edit) &nbsp;&nbsp;
-  : **Due: Sep16, 11:59pm**{: .label .label-yellow }
+  : [Link](#) &nbsp;&nbsp;
+  : **Due: Feb 04, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Probability Review 

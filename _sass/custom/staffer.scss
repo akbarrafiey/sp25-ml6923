@@ -54,7 +54,7 @@
   flex-wrap: nowrap; /* Prevents wrapping */
   gap: 20px; /* Adjusts spacing between items */
   justify-content: space-between; /* Distributes TAs evenly across the row */
-  width: 100%; /* Ensures the TAs take up the full width of the container */
+  width: 50%; /* Ensures the TAs take up the full width of the container */
 }
 
 .ta-container {
@@ -62,7 +62,7 @@
   flex-wrap: nowrap; /* Prevents wrapping */
   gap: 20px; /* Adjusts spacing between items */
   justify-content: space-between; /* Distributes TAs evenly across the row */
-  width: 100%; /* Ensures the TAs take up the full width of the container */
+  width: 50%; /* Ensures the TAs take up the full width of the container */
 }
 
 .instructors-container {

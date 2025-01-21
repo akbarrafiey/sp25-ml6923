@@ -2,7 +2,7 @@
 title: Week 5
 ---
 
-Oct 03
+Feb 20
 : **HW 02 posted**{: .label .label-red }
   : [PDF](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
@@ -10,7 +10,7 @@ Oct 03
 : **Due: Oct 15, 11:59pm**{: .label .label-red }
 
 
-Oct 04
+Feb 21
 : **LEC 05**{: .label .label-gray } KNN, Logistic Regression, Optimization
   : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/05-classification/Lec05-marked.pdf)

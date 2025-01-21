@@ -2,12 +2,12 @@
 title: Finals Week
 ---
 
-Dec 20
+TBD
 : **Final Exam**{: .label .label-purple } 
-  : [Sample](Sample-Exam/final_sample.pdf) &nbsp;&nbsp;
-  : [Info](Sample-Exam/final-info.pdf)
+  : [Sample](#) &nbsp;&nbsp;
+  : [Info](#)
 
 
-: **Location:**  &nbsp; Jacobs Academic Bldg, Room 473 <br> 
-**Time:** &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; 2:00--4:00 PM
+: **Location:**  &nbsp; TBD <br> 
+**Time:** &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; TBD
   
