@@ -41,7 +41,7 @@ seo:
 
 ## How to get started:
 - Read the [syllabus](syllabus.md).
-- Join our [Ed Discussion](#) message board and [Gradescope](https://www.gradescope.com/courses/959935) with the email invitations you received earlier this week. If you didn't receive an email, you can use access code G3NXW3 for Gradescope (the link above for Ed Discussion will automatically let you join the class without a code).
+- Join our [Ed Discussion](#) message board and [Gradescope](https://www.gradescope.com/courses/959935) with the email invitations you received earlier this week. If you didn’t receive an email, you can use the access code G3NXW3 for Gradescope. For Ed Discussion, if you didn’t receive an email, please let me know. 
 
 
 {{  site.modules[0]  }}

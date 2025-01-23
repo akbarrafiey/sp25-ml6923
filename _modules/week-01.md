@@ -8,14 +8,14 @@ Jan 24
   : [PDF](#) &nbsp;&nbsp;
   : [Marked-PDF](#)
 : **Demo 01**{: .label .label-green } Numpy, arrays, and plotting
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1aQl3FDkyKpipkGTowERqYLulUOPcQ6ee/view?usp=sharing) &nbsp;&nbsp;
 : **Demo 02**{: .label .label-green } Simple regression example
-  : [Link](#) &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1uQ3CmJk24y8SJPfs9I3hHgwwqIGWEI9T/view?usp=sharing) &nbsp;&nbsp;
 
 Jan 25
 : **Lab 01 Release**{: .label .label-yellow } 
-  : [Link](#) &nbsp;&nbsp;
-  : **Due: Feb 04, 11:59pm**{: .label .label-yellow }
+  : [Link](https://colab.research.google.com/drive/1b3sS-4qqPBm5yB-naN8angPFV9B1yebS?usp=sharing) &nbsp;&nbsp;
+  : **Due: Feb 05, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Probability Review 

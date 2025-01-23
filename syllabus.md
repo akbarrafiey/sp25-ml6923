@@ -3,7 +3,7 @@
 Welcome to CS-GY 6923 in Spring 2025!
 This page should answer most of the questions you might have about how the
 course is run. If you don't find what you're looking for here, feel free to
-make a post on [EdStem](https://edstem.org/us/courses/65970/discussion/).
+make a post on [EdStem](https://edstem.org/us/courses/74675/discussion).
 
 
 ## Instructor
@@ -25,12 +25,12 @@ couple of websites.
 
 ### Ed Discussion
 
-We'll be using [EdStem](#) as our course message
+We'll be using [EdStem](https://edstem.org/us/courses/74675/discussion) as our course message
 board. You should have received an invitation via email, but if not you should
-be able to join by clicking the link above. Be sure sure to join EdStem as soon as possible,
+be able to join by clicking the link above. Be sure to join EdStem as soon as possible,
 since all course communication will be done through it.
 
-If you have a question about anything to do with the course  &mdash; if you're
+If you have a question about anything to do with the course &mdash; if you're
 stuck on a homework problem, want clarification on the logistics, or just have a
 general question about data science &mdash; you can make a post on EdStem.
 We only ask that if your question includes some or all of an answer, please make
@@ -97,14 +97,13 @@ they will be podcasted and posted online for remote viewing. Attendance is
 appreciated, but not required.
 
 
-You will be able to find the lecture recordings at our [NYU Brightspace Course](#).
+You will be able to find the lecture recordings at our [NYU Brightspace Course](https://brightspace.nyu.edu/d2l/home/446536) under the zoom icon, cloud recording.
 
 
 ## Office Hours
 
 Course staff, TAs, and instructors, will hold office hours
-regularly throughout the week. Please see the [office
-hours](#) page for the schedule and for instructions.
+regularly throughout the week. Please see the [office hours](office_hours.md) page for the schedule and for instructions.
 
 
 

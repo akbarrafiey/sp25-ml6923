@@ -6,6 +6,7 @@ Jan 31
 : **LEC 02**{: .label .label-gray } Multiple Linear Regression, Polynimial Regression, Model Selection
   : [PDF]() &nbsp;&nbsp;
   : [Marked-PDF]()
+{% comment %}
 : **Demo 03**{: .label .label-green } Multiple Regression 
   : [Link]() &nbsp;&nbsp;
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
@@ -23,3 +24,4 @@ Reading
 : Regularization 
   : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
 
+{% endcomment %}
