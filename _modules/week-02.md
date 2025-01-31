@@ -4,18 +4,18 @@ title: Week 2
 
 Jan 31
 : **LEC 02**{: .label .label-gray } Multiple Linear Regression, Polynimial Regression, Model Selection
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/02-multiple-regression/Lec02.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
-{% comment %}
+
 : **Demo 03**{: .label .label-green } Multiple Regression 
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1LySkjczdVX40t-09bGTypgMaTS9B0-fX/view?usp=sharing) &nbsp;&nbsp;
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1sZ81NWaq4n5YEH_TEUtUA4lJqjZLuWKL/view?usp=sharing) &nbsp;&nbsp;
 
 Feb 01
 : **Lab 02 Release**{: .label .label-yellow } 
   : [Link]() &nbsp;&nbsp;
-  : **Due: Feb11, 11:59pm**{: .label .label-yellow }
+  : **Due: Feb12, 11:59pm**{: .label .label-yellow }
 
 Reading
 : Computing Gradient
@@ -24,4 +24,3 @@ Reading
 : Regularization 
   : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
 
-{% endcomment %}
