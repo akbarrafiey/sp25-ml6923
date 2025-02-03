@@ -21,6 +21,3 @@ Reading
 : Computing Gradient
   : [Notes by Chris Musco](https://www.chrismusco.com/machinelearning2023_grad/gradient_practice.pdf) &nbsp;&nbsp;
   : [Raw Markdown](https://www.chrismusco.com/machinelearning2023_grad/gradient_practice.md)
-: Regularization 
-  : [Caltech Lecture 12](https://work.caltech.edu/lectures.html#lectures)
-
