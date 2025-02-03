@@ -12,9 +12,9 @@ Jan 31
 : **Demo 04**{: .label .label-green } Polynimial Regression, Model Order Selection
   : [Link](https://drive.google.com/file/d/1sZ81NWaq4n5YEH_TEUtUA4lJqjZLuWKL/view?usp=sharing) &nbsp;&nbsp;
 
-Feb 01
+Feb 02
 : **Lab 02 Release**{: .label .label-yellow } 
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://colab.research.google.com/drive/1XfywxYRZHDQGXT1slJ4MMRHyHhwpp5TA?usp=sharing) &nbsp;&nbsp;
   : **Due: Feb12, 11:59pm**{: .label .label-yellow }
 
 Reading
