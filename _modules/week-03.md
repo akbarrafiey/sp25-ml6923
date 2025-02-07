@@ -12,7 +12,7 @@ Feb 07
 Feb 08
 : **LEC 03**{: .label .label-gray } Regularization, Naive Bayes
   : [PDF](lectures/03-naive-bayes/Lec03.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](#)
+  : [Marked-PDF](lectures/03-naive-bayes/Lec03-marked.pdf)
 
 
 Reading
