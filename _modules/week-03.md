@@ -7,7 +7,7 @@ Feb 07
   : [PDF](homeworks/HW01/HW01.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
-: **Due: Oct 01, 11:59pm**{: .label .label-red }
+: **Due: Feb 19, 11:59pm**{: .label .label-red }
 
 Feb 08
 : **LEC 03**{: .label .label-gray } Naive Bayes
