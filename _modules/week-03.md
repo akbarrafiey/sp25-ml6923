@@ -10,7 +10,7 @@ Feb 07
 : **Due: Feb 19, 11:59pm**{: .label .label-red }
 
 Feb 08
-: **LEC 03**{: .label .label-gray } Naive Bayes
+: **LEC 03**{: .label .label-gray } Regularization, Naive Bayes
   : [PDF](lectures/03-naive-bayes/Lec03.pdf) &nbsp;&nbsp;
   : [Marked-PDF](#)
 
