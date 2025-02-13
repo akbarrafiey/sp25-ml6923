@@ -2,15 +2,16 @@
 title: Week 4
 ---
 
-Feb 14
-: **LEC 04**{: .label .label-gray } Bayesian Machine Learning, Modeling Language
-  : [PDF](lectures/04-more-naive-bayes/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/04-more-naive-bayes/Lec04-marked.pdf)
-
-Feb 15
+Feb 13
 : **Lab 03 Release**{: .label .label-yellow } 
-  : [Link](https://colab.research.google.com/drive/1pLjkXj1L07LwWOnLv88eDT-0HI_MOhlA?) &nbsp;&nbsp;
-  : **Due: Oct 08, 11:59pm**{: .label .label-yellow }
+  : [Link](https://drive.google.com/file/d/1POROntyIFb9qiqQIcFPGiHOaYaB_7lXv/view?usp=sharing) &nbsp;&nbsp;
+  : **Due: Feb 26, 11:59pm**{: .label .label-yellow }
+
+Feb 14
+: **LEC 04**{: .label .label-gray } Bayesian ML, Modeling Language
+  : [PDF]() &nbsp;&nbsp;
+  : [Marked-PDF]()
+
 
 Reading
 : Bayes regression
