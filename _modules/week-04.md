@@ -9,7 +9,7 @@ Feb 13
 
 Feb 14
 : **LEC 04**{: .label .label-gray } Bayesian ML, Modeling Language
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/04-more-naive-bayes/Lec04.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 
