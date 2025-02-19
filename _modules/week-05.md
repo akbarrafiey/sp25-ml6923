@@ -7,15 +7,15 @@ Feb 20
   : [PDF](homeworks/HW02/HW02.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
-: **Due: Oct 15, 11:59pm**{: .label .label-red }
+: **Due: March 05, 11:59pm**{: .label .label-red }
 
 
 Feb 21
-: **LEC 05**{: .label .label-gray } KNN, Logistic Regression, Optimization
-  : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/05-classification/Lec05-marked.pdf)
+: **LEC 05**{: .label .label-gray } Logistic Regression, Optimization
+  : [PDF]() &nbsp;&nbsp;
+  : [Marked-PDF]()
 : **Demo 05**{: .label .label-green } Logistic regression
-  : [Link](https://drive.google.com/file/d/1wNi3tsikGBL7pvjXPfqAqXi7GL-jkkXJ/view?usp=sharing) &nbsp;&nbsp;
+  : [Link]() &nbsp;&nbsp;
 
 
 Reading
