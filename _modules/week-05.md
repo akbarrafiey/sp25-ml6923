@@ -12,14 +12,14 @@ Feb 20
 
 Feb 21
 : **LEC 05**{: .label .label-gray } Logistic Regression, Optimization
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 : **Demo 05**{: .label .label-green } Logistic regression
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1_50qPyHMDglWJ-xNwGlX6BUh5Kh3Z8jb/view?usp=sharing) &nbsp;&nbsp;
 
 
 Reading
 : Logistic regression
   : Chapter 4.1-4.3 in AISL &nbsp;&nbsp;&nbsp;&nbsp;
-  : [Note](https://cs229.stanford.edu/notes2019fall/cs229-notes1.pdf) on Least Squares Regression
+  : [Note](https://cs229.stanford.edu/notes2019fall/cs229-notes1.pdf) on Logistic Regression
   
