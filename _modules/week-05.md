@@ -13,7 +13,7 @@ Feb 20
 Feb 21
 : **LEC 05**{: .label .label-gray } Logistic Regression, Optimization
   : [PDF](lectures/05-classification/Lec05.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/05-classification/Lec05-marked.pdf)
 : **Demo 05**{: .label .label-green } Logistic regression
   : [Link](https://drive.google.com/file/d/1_50qPyHMDglWJ-xNwGlX6BUh5Kh3Z8jb/view?usp=sharing) &nbsp;&nbsp;
 
