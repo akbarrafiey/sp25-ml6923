@@ -49,8 +49,8 @@ seo:
 {{  site.modules[2]  }}
 {{  site.modules[3]  }}
 {{  site.modules[4]  }}
-{% comment %}
 {{  site.modules[5]  }}
+{% comment %}
 {{  site.modules[6]  }}
 {{  site.modules[7]  }}
 {{  site.modules[8]  }}
