@@ -6,7 +6,7 @@ title: Week 8
 
 Mar 14
 : **Midterm 01**{: .label .label-purple }
-  : [Sample](Sample-Exam/MT1-sample.pdf) &nbsp;&nbsp;
-  : [Solution](Sample-Exam/MT1-sample-solution.pdf)&nbsp;&nbsp;
+  : [Sample](Sample-Exam/midterm_sample_SP25.pdf) &nbsp;&nbsp;
+  : [Solution]()&nbsp;&nbsp;
   : [info](Sample-Exam/midterm_info_SP25.pdf)
 
