@@ -2,16 +2,23 @@
 title: Week 7
 ---
 
+Mar 04
+: **HW 03 posted**{: .label .label-red }
+  : [PDF](homeworks/HW03/HW03.pdf) &nbsp;&nbsp;
+  : [Solution](#) &nbsp;&nbsp;
+  : [LaTeX](homeworks/HW01/template.tex) &nbsp;&nbsp;
+: **Due: March 12, 11:59pm**{: .label .label-red }
+
 Mar 07
-: **LEC 07**{: .label .label-gray } Learning Theory, the PAC model
-  : [PDF](lectures/07-learning-theory-pac/Lec07.pdf) &nbsp;&nbsp;
-  : [Marked-PDF](lectures/07-learning-theory-pac/Lec07-marked.pdf)
+: **LEC 07**{: .label .label-gray } Finishing SGD, Learning Theory
+  : [PDF]() &nbsp;&nbsp;
+  : [Marked-PDF]()
 
 
 Mar 08
 : **Lab 04 Release**{: .label .label-yellow } 
-  : [Link](https://colab.research.google.com/drive/1Z9HNZJQWkyZLN5C4Tc0c6dI-OnROSQsc?) &nbsp;&nbsp;
-  : **Due: Nov 05, 11:59pm**{: .label .label-yellow }
+  : [Link]() &nbsp;&nbsp;
+  : **Due: March 20, 11:59pm**{: .label .label-yellow }
 
 
 Reading

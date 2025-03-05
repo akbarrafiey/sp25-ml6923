@@ -50,9 +50,9 @@ seo:
 {{  site.modules[3]  }}
 {{  site.modules[4]  }}
 {{  site.modules[5]  }}
-{% comment %}
 {{  site.modules[6]  }}
 {{  site.modules[7]  }}
+{% comment %}
 {{  site.modules[8]  }}
 {{  site.modules[9]  }}
 {{  site.modules[10]  }}
