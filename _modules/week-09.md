@@ -3,7 +3,7 @@ title: Week 9
 ---
 
 Mar 21
-: **LEC 08**{: .label .label-gray } Kernel Methods, Support Vector Machine
+: **LEC 09**{: .label .label-gray } Kernel Methods, Support Vector Machine
   : [PDF](lectures/09-kernel-methods-svm/Lec09.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/09-kernel-methods-svm/Lec09-marked.pdf)
 
