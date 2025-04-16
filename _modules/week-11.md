@@ -11,7 +11,7 @@ Apr 04
 : **Demo 07**{: .label .label-green } Keras NN on synthetic data
   : [Link](https://drive.google.com/file/d/1xPY-8afSTnX47WRB_2lOkjFlm9MhEaTK/view?usp=sharing) &nbsp;&nbsp;
 : **Demo 08**{: .label .label-green } Keras NN on MNIST data
-  : [Link]() &nbsp;&nbsp;
+  : [Link](https://drive.google.com/file/d/1BouwV06u7yQZh7irJRlbuMKHieY6XZpv/view?usp=sharing) &nbsp;&nbsp;
 
 
 Apr 04
