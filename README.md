@@ -57,8 +57,8 @@ seo:
 {{  site.modules[10]  }}
 {{  site.modules[11]  }}
 {{  site.modules[12]  }}
-{% comment %}
 {{  site.modules[13]  }}
+{% comment %}
 {{  site.modules[14]  }}
 {{  site.modules[15]  }}
 {{  site.modules[16]  }}
