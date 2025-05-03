@@ -13,4 +13,4 @@ Mar 14
 
 : **LEC 08**{: .label .label-gray } Federated Learning
   : [PDF](lectures/08-fl/Lec08.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/08-fl/Lec08-marked.pdf)
