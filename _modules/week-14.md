@@ -13,4 +13,4 @@ Apr 21
 Apr 25
 : **LEC 13**{: .label .label-gray } PCA, Semantic Embeddings
   : [PDF](lectures/13-pca-embeding/Lec13.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/13-pca-embeding/Lec13-marked.pdf)
